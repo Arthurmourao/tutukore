@@ -42,6 +42,7 @@ all 0 1 0
 
 ##### HEAL/SUPPORT ITEMS #####
 # Adjust these to your needs
+
 11565 100 1 0 # [Evento] Poção Branca#
 11566 100 1 0 # [Evento] Poção Amarela#
 11567 100 1 0 # [Evento] Poção de Aprendiz#
@@ -52,6 +53,11 @@ all 0 1 0
 11572 100 1 0 # [Evento] Poção Azul#
 11573 100 1 0 # [Evento] Poção Branca Compacta#
 11574 100 1 0 # [Evento] Poção Amarela Compacta#
+14534 100 1 0 # Poção Menor de Vida
+23320 100 1 0 # Suco de Melão
+23723 100 1 0 # Pão de Melão
+11610 100 1 0 # Melão Amarelo
+23322 100 1 0 # Sorvete de Melão
 501 100 1 0 # Poção Vermelha
 502 100 1 0 # Poção Laranja
 503 100 1 0 # Poção Amarela

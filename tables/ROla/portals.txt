@@ -3335,3 +3335,4 @@ ve_fild07b 154 371 ve_fild07a 154 371 0 c r1
 ve_fild07b 154 371 ve_fild07 154 371 0 c r0
 ve_fild07 154 371 ve_fild07a 154 371 0 c r1
 ve_fild07 154 371 ve_fild07b 154 371 0 c r2
+izlude_b 20 98 prt_fild08 367 212
